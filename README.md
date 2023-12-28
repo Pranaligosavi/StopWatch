@@ -1,2 +1,2 @@
 # StopWatch
-I developed this StopWatch website  using the Html,Css, javascript.
+ I developed this website using Html,Css,javascript. 
